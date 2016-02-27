@@ -28,4 +28,7 @@ files
     bin/Release/FsCheck.Xunit.dll ==> lib/net45
     bin/Release/FsCheck.Xunit.pdb ==> lib/net45
     bin/Release/FsCheck.Xunit.xml ==> lib/net45
+	../FsCheck.Xunit.Portable.Profile7/bin/Release/FsCheck.Xunit.dll ==> lib/portable-net45+netcore45
+    ../FsCheck.Xunit.Portable.Profile7/bin/Release/FsCheck.Xunit.pdb ==> lib/portable-net45+netcore45
+    ../FsCheck.Xunit.Portable.Profile7/bin/Release/FsCheck.Xunit.xml ==> lib/portable-net45+netcore45
 
